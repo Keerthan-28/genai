@@ -1,0 +1,11 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country
+1001,P1,Alpha Laptop,10,2024-09-05 10:00:00,500.00,2001,United Kingdom
+C1002,P1,Alpha Laptop,-10,2024-09-06 10:00:00,500.00,2001,United Kingdom
+1003,P1,Alpha Laptop,10,2024-10-02 09:00:00,1000.00,2001,United Kingdom
+1004,P2,Beta Mouse,50,2024-10-15 11:00:00,20.00,2002,Germany
+1005,P1,Alpha Laptop,8,2024-11-04 12:00:00,1000.00,2001,United Kingdom
+1006,P2,Beta Mouse,100,2024-11-18 14:00:00,20.00,2002,Germany
+1007,P3,Gamma Dock,20,2024-11-26 15:00:00,100.00,2003,France
+1008,P1,Alpha Laptop,12,2024-12-01 09:30:00,1000.00,2001,United Kingdom
+1009,P2,Beta Mouse,80,2024-12-06 13:15:00,20.00,2002,Germany
+1010,P3,Gamma Dock,-4,2024-12-10 16:45:00,100.00,2003,France

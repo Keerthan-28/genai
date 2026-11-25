@@ -1,0 +1,34 @@
+# VeriReport AI Retail Sales Report — sample_retail_transactions.csv
+
+## 1. Executive Summary
+Analysis of sample_retail_transactions.csv (2024-10-01 to 2024-12-12) recorded total revenue of £42,300.00 across 13 distinct orders. Gross revenue was £43,700.00, while Laptop Pro 15 ranked #1 with £29,000.00 (68.56% of total revenue).
+
+## 2. Dataset Overview
+The dataset contains 16 raw rows and 14 processed rows spanning 2024-10-01 to 2024-12-12 across 4 products and 3 countries. Data quality score is 0.97.
+
+## 3. Overall Sales Performance
+Total revenue under the active policy was £42,300.00, net revenue was £42,300.00, gross revenue was £43,700.00, quantity sold totaled 384 units, and average order value was £3,253.85.
+
+## 4. Monthly Sales Analysis
+In 2024-10, revenue reached £14,200.00 across 4 order(s) [partial period coverage]. In 2024-11, revenue reached £13,500.00 across 5 order(s) (growth of -4.93% vs 2024-10). In 2024-12, revenue reached £14,600.00 across 4 order(s) (growth of 8.15% vs 2024-11) [partial period coverage].
+
+## 5. Product Performance
+Rank #1 product Laptop Pro 15 generated £29,000.00 from 29 units (68.56% contribution). Rank #2 product Mechanical Keyboard generated £6,000.00 from 60 units (14.18% contribution). Rank #3 product Wireless Mouse generated £4,500.00 from 225 units (10.64% contribution). Rank #4 product USB-C Hub generated £2,800.00 from 70 units (6.62% contribution).
+
+## 6. Country-wise Sales Analysis
+United Kingdom led country revenue at £31,600.00 (74.70% share). France recorded £6,000.00 (14.18% of total revenue) across 3 order(s). Germany recorded £4,700.00 (11.11% of total revenue) across 3 order(s).
+
+## 7. Revenue Growth
+Latest month-over-month revenue growth in 2024-12 compared with 2024-11 was 8.15%.
+
+## 8. Key Business Insights
+Returns amounted to £400.00 across 2 transaction(s), and cancellations totaled £1,000.00 across 1 transaction(s) (7.14% cancellation rate).
+
+## 9. Trends and Observations
+Observed monthly revenue trend direction across 3 month(s) is upward.
+
+## 10. Data Limitations
+Partial period coverage applies to: 2024, 2024-10, 2024-12. 1 row(s) have invalid InvoiceDate values. 1 row(s) have UnitPrice <= 0 or non-numeric. 1 exact duplicate row(s) detected. 1 cancellation transaction(s) ('C' invoice prefix) detected. 2 return transaction(s) (negative quantity) detected. Partial period coverage detected for: 2024, 2024-10, 2024-12. Do not claim full-period coverage for these periods.
+
+## 11. Conclusion
+All figures remain traceable to dataset ds_2daf7a81a6b2 under policy mode net_revenue, subject to documented data limitations.

@@ -1,0 +1,34 @@
+# VeriReport AI Retail Sales Report — Online Retail.xlsx
+
+## 1. Executive Summary
+Analysis of Online Retail.xlsx (2010-12-01 to 2011-12-09) recorded total revenue of $9,748,131.07 across 23796 distinct orders. Gross revenue was $10,642,110.80, while DOTCOM POSTAGE ranked #1 with $206,245.48 (2.12% of total revenue).
+
+## 2. Dataset Overview
+The dataset contains 541909 raw rows and 534129 processed rows spanning 2010-12-01 to 2011-12-09 across 4031 products and 38 countries. Data quality score is 1.00.
+
+## 3. Overall Sales Performance
+Total revenue under the active policy was $9,748,131.07, net revenue was $9,748,131.07, gross revenue was $10,642,110.80, quantity sold totaled 5,296,860 units, and average order value was $409.65.
+
+## 4. Monthly Sales Analysis
+In 2010-12, revenue reached $746,723.61 across 1885 order(s) [partial period coverage]. In 2011-01, revenue reached $558,448.56 across 1346 order(s) (growth of -25.21% vs 2010-12). In 2011-02, revenue reached $497,026.41 across 1319 order(s) (growth of -11.00% vs 2011-01). In 2011-03, revenue reached $682,013.98 across 1772 order(s) (growth of 37.22% vs 2011-02). In 2011-04, revenue reached $492,367.84 across 1486 order(s) (growth of -27.81% vs 2011-03). In 2011-05, revenue reached $722,094.10 across 1995 order(s) (growth of 46.66% vs 2011-04). In 2011-06, revenue reached $689,977.23 across 1862 order(s) (growth of -4.45% vs 2011-05). In 2011-07, revenue reached $680,156.99 across 1745 order(s) (growth of -1.42% vs 2011-06). In 2011-08, revenue reached $703,510.58 across 1639 order(s) (growth of 3.43% vs 2011-07). In 2011-09, revenue reached $1,017,596.68 across 2170 order(s) (growth of 44.65% vs 2011-08). In 2011-10, revenue reached $1,069,368.23 across 2402 order(s) (growth of 5.09% vs 2011-09). In 2011-11, revenue reached $1,456,145.80 across 3210 order(s) (growth of 36.17% vs 2011-10). In 2011-12, revenue reached $432,701.06 across 965 order(s) (growth of -70.28% vs 2011-11) [partial period coverage].
+
+## 5. Product Performance
+Rank #1 product DOTCOM POSTAGE generated $206,245.48 from 705 units (2.12% contribution). Rank #2 product REGENCY CAKESTAND 3 TIER generated $164,459.49 from 12,996 units (1.69% contribution). Rank #3 product WHITE HANGING HEART T-LIGHT HOLDER generated $99,612.42 from 35,294 units (1.02% contribution). Rank #4 product PARTY BUNTING generated $98,243.88 from 18,006 units (1.01% contribution). Rank #5 product JUMBO BAG RED RETROSPOT generated $92,175.79 from 47,256 units (0.95% contribution).
+
+## 6. Country-wise Sales Analysis
+United Kingdom led country revenue at $8,189,252.30 (84.01% share). Netherlands recorded $284,661.54 (2.92% of total revenue) across 100 order(s). EIRE recorded $262,993.38 (2.70% of total revenue) across 360 order(s). Germany recorded $221,509.47 (2.27% of total revenue) across 603 order(s). France recorded $197,317.11 (2.02% of total revenue) across 461 order(s).
+
+## 7. Revenue Growth
+Latest month-over-month revenue growth in 2011-12 compared with 2011-11 was -70.28%.
+
+## 8. Key Business Insights
+Returns amounted to $0.00 across 0 transaction(s), and cancellations totaled $893,979.73 across 9251 transaction(s) (1.73% cancellation rate).
+
+## 9. Trends and Observations
+Observed monthly revenue trend direction across 13 month(s) is downward.
+
+## 10. Data Limitations
+Partial period coverage applies to: 2010, 2010-12, 2011-12. 2517 row(s) have UnitPrice <= 0 or non-numeric. 5268 exact duplicate row(s) detected. 9288 cancellation transaction(s) ('C' invoice prefix) detected. 1336 return transaction(s) (negative quantity) detected. Partial period coverage detected for: 2010, 2010-12, 2011-12. Do not claim full-period coverage for these periods.
+
+## 11. Conclusion
+All figures remain traceable to dataset ds_43465a06f2cc under policy mode net_revenue, subject to documented data limitations.
